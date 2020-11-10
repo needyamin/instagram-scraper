@@ -14,6 +14,7 @@ To install instagram-scraper:
 ```bash
 $ pip install instagram-scraper
 ```
+You need to cd into the instagram-scraer folder
 
 To update instagram-scraper:
 ```bash
